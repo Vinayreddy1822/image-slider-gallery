@@ -6,9 +6,7 @@ This project delivers a premium user experience with smooth transitions, thumbna
 ---
 
 ## 🚀 Live Preview
-
-👉 *(Add your GitHub Pages link here once deployed)*  
-Example:[https://Vinayreddy1822.gthub.io/image-slider-gallery/](https://github.com/Vinayreddy1822/image-slider-gallery.git)
+[https://Vinayreddy1822.gthub.io/image-slider-gallery/](https://github.com/Vinayreddy1822/image-slider-gallery.git)
 
 ---
 
